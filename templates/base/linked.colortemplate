@@ -1,0 +1,35 @@
+# ==========================================================
+# Common Linked Groups
+#
+# See: `:help hightlight-default`
+# ----------------------------------------------------------
+
+Boolean            -> Constant
+Character          -> Constant
+Conditional        -> Statement
+Debug              -> Special
+Define             -> PreProc
+Delimiter          -> Special
+EndOfBuffer        -> NonText
+Exception          -> Statement
+Float              -> Number
+Function           -> Identifier
+Include            -> PreProc
+Keyword            -> Statement
+Label              -> Statement
+Macro              -> PreProc
+Number             -> Constant
+Operator           -> Statement
+PopupSelected      -> PmenuSel
+PreCondit          -> PreProc
+QuickFixLine       -> Search
+Repeat             -> Statement
+SpecialChar        -> Special
+SpecialComment     -> Special
+StorageClass       -> Type
+String             -> Constant
+Structure          -> Type
+Tag                -> Special
+Typedef            -> Type
+
+# vim: fdm=marker cc=23,41,59

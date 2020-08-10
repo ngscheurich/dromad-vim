@@ -1,0 +1,13 @@
+# ==========================================================
+# Elixir
+# ----------------------------------------------------------
+
+# Group               Foreground        Background        Attributes
+elixirAtom            bright_green      none
+elixirFunctionCall    bright_cyan       none
+elixirOperator        bright_blue       none
+elixirAlias           white             none
+elixirTupleDelimiter  bright_magenta    none
+elixirStringDelimiter brown             none
+
+# vim: fdm=marker cc=23,41,59

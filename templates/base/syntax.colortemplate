@@ -1,0 +1,28 @@
+# ==========================================================
+# Convential Syntax Groups
+#
+# See:
+#
+#   * `:help group-name`
+#   * `:help CursorIM`
+#   * `:help window-toolbar`
+#
+# ----------------------------------------------------------
+
+# Group               Foreground        Background        Attributes
+Comment               bright_grey       none              italic
+Constant              brown             none
+Error                 dark_red          none              bold,underline
+Identifier            bright_blue       none
+Ignore                bright_grey       none              bold
+PreProc               bright_cyan       none              bold
+Special               bright_red        none
+Statement             dark_cyan         none
+Todo                  bright_orange     none
+Type                  yellow            none
+Underlined            white             none
+CursorIM              none              fg
+ToolbarLine           none              black
+ToolbarButton         white             black             bold
+
+# vim: cc=23,41,59

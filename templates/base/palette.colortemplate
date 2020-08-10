@@ -1,0 +1,30 @@
+# ==========================================================
+# Color Palette
+#
+# All credit for this selection of colors goes to the team at
+# Freehold Games (http://www.freeholdgames.com/).
+# ----------------------------------------------------------
+
+Background: dark
+
+# Color               GUI               Base256           Base16
+Color: dark_red       #A64A2E           ~                 DarkRed
+Color: bright_red     #D74200           ~                 LightRed
+Color: dark_orange    #F15F22           ~                 DarkRed
+Color: bright_orange  #E99F10           ~                 LightRed
+Color: brown          #98875F           ~                 DarkYellow
+Color: yellow         #CFC041           ~                 LightYellow
+Color: dark_green     #009403           ~                 DarkGreen
+Color: bright_green   #00C420           ~                 LightGreen
+Color: dark_blue      #0048BD           ~                 DarkBlue
+Color: bright_blue    #0096FF           ~                 LightBlue
+Color: dark_cyan      #40A4B9           ~                 DarkCyan
+Color: bright_cyan    #77BFCF           ~                 LightCyan
+Color: dark_magenta   #B154CF           ~                 DarkMagenta
+Color: bright_magenta #DA5BD6           ~                 LightMagenta
+Color: black          #0F3B3A           ~                 Black
+Color: dark_grey      #155352           ~                 DarkGrey
+Color: bright_grey    #B1C9C3           ~                 LightGrey
+Color: white          #FFFFFF           ~                 White
+
+# vim: cc=23,41,59

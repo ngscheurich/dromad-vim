@@ -1,0 +1,7 @@
+# ==========================================================
+# Terminal Colors
+# ----------------------------------------------------------
+
+Term colors: black bright_red bright_green yellow bright_blue bright_magenta bright_cyan white
+Term colors: black bright_red bright_green yellow
+Term colors: bright_blue bright_magenta bright_cyan white

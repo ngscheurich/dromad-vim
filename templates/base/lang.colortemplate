@@ -1,0 +1,20 @@
+# ==========================================================
+# Language Syntax Groups
+# ----------------------------------------------------------
+
+# Group               Foreground        Background        Attributes
+# Elixir {{{
+elixirAtom            bright_green      none
+elixirFunctionCall    bright_cyan       none
+elixirOperator        bright_blue       none
+elixirAlias           white             none
+elixirTupleDelimiter  bright_magenta    none
+elixirStringDelimiter brown             none
+}}}
+# Vim Script {{{
+vimcontinue           bright_magenta    none
+vimparensep           bright_magenta    none
+vimsep                bright_magenta    none
+}}}
+
+# vim: cc=23,41,59 fdm=marker

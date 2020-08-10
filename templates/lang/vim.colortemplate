@@ -1,0 +1,10 @@
+# ==========================================================
+# Vim Script
+# ----------------------------------------------------------
+
+# Group               Foreground        Background        Attributes
+vimcontinue           bright_magenta    none
+vimparensep           bright_magenta    none
+vimsep                bright_magenta    none
+
+# vim: fdm=marker cc=23,41,59

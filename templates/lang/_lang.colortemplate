@@ -1,0 +1,3 @@
+Include: lang/elixir.colortemplate
+Include: lang/typescript.colortemplate
+Include: lang/vim.colortemplate

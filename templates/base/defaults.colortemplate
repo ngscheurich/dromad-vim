@@ -1,0 +1,55 @@
+# ==========================================================
+# Default Highlight Groups
+#
+# See: `:help hightlight-default`
+# ----------------------------------------------------------
+
+# Group               Foreground        Background        Attributes
+Normal                bright_grey       black
+Terminal              white             black
+ColorColumn           none              dark_grey
+Conceal               bright_grey       black
+Cursor                white             black
+CursorColumn          white             black
+CursorLine            none              dark_grey
+CursorLineNr          white             black             bold
+DiffAdd               white             black             reverse
+DiffChange            white             black             reverse
+DiffDelete            white             black             reverse
+DiffText              white             black             bold,reverse
+Directory             white             black
+EndOfBuffer           white             black
+ErrorMsg              white             black             reverse
+FoldColumn            white             black
+Folded                bright_orange     black
+IncSearch             white             black             t=reverse g=standout
+LineNr                bright_grey       black
+MatchParen            white             black
+ModeMsg               white             black
+MoreMsg               white             black
+NonText               white             black
+Pmenu                 black             dark_red
+PmenuSbar             white             black
+PmenuSel              bright_grey       bright_red
+PmenuThumb            white             black
+Question              white             black
+Search                white             black
+SignColumn            white             dark_grey
+SpecialKey            white             black
+SpellBad              white             black             s=dark_red
+SpellCap              white             black             s=dark_blue
+SpellLocal            white             black             s=dark_magenta
+SpellRare             white             black             s=dark_cyan reverse
+StatusLine            black             bright_grey
+StatusLineNC          black             dark_grey
+TabLine               white             black
+TabLineFill           white             black
+TabLineSel            white             black
+Title                 white             black
+VertSplit             dark_grey         black
+Visual                white             dark_grey
+VisualNOS             white             black
+WarningMsg            white             black
+WildMenu              white             black
+
+# vim: fdm=marker cc=23,41,59
