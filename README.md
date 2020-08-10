@@ -24,13 +24,13 @@ was developed using [Colortemplate].
 Dromad is currently optimized for Elixir and Vimscript. Other languages and
 plugins I commonly use may be added in the future, such as:
 
-- [] C#
-- [] TypeScript/TSX
-- [] CSS
-- [] nvim-lsp
-- [] ALE
-- [] lightline.vim
-- [] vim-gitgutter
+- [ ] C#
+- [ ] TypeScript/TSX
+- [ ] CSS
+- [ ] nvim-lsp
+- [ ] ALE
+- [ ] lightline.vim
+- [ ] vim-gitgutter
 
 ## Contributing
 
