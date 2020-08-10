@@ -16,7 +16,16 @@ Plug 'ngscheurich/dromad-vim'
 
 ## Credits
 
-All credit for the color palette goes to the team at [Freehold Games]. Dromad
+All credit for the color palette goes to the team at [Freehold Games], of which I
+am in no way affiliated. You can currently purchase Caves of Qud at any of the
+following outlets, which I do recommend doing if you’re a fan of the roguelike
+genre or of interesting worldbuilding:
+
+- [itch.io](https://freeholdgames.itch.io/cavesofqud)
+- [Steam](http://store.steampowered.com/app/333640)
+- [GOG](https://www.gog.com/game/caves_of_qud)
+
+Dromad
 was developed using [Colortemplate].
 
 ## Roadmap
