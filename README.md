@@ -21,8 +21,9 @@ was developed using [Colortemplate].
 
 ## Roadmap
 
-Dromad is currently optimized for Elixir and Vimscript. Other languages and
-plugins I commonly use may be added in the future, such as:
+Dromad is currently optimized for Elixir and Vimscript, but works well for most
+filetypes. I might eventually apply special treatment to other languages and
+plugins I commonly use, such as:
 
 - [ ] C#
 - [ ] TypeScript/TSX
