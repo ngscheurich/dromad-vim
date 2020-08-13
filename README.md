@@ -1,6 +1,6 @@
 # Dromad
 
-Dromad is a Vim colorscheme that uses the color palette of the excellent science
+Dromad is a Vim color scheme based on the color palette of the excellent science
 fantasy roguelike [Caves of Qud].
 
 ![Dromad screenshot](https://github.com/ngscheurich/dromad-vim/raw/master/screenshot.png)
