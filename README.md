@@ -38,7 +38,7 @@ plugins I commonly use, such as:
 - [ ] CSS
 - [ ] nvim-lsp
 - [ ] ALE
-- [ ] lightline.vim
+- [x] lightline.vim
 - [ ] vim-gitgutter
 
 ## Contributing
