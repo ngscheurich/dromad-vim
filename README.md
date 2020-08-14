@@ -7,8 +7,7 @@ fantasy roguelike [Caves of Qud].
 
 ## Installation
 
-The usual song-and-dance—use the built-in `packages` feature or a plugin
-manager of your choosing, e.g. [vim-plug]:
+Use the built-in `packages` feature or a plugin manager of your choosing, e.g. [vim-plug]:
 
 ```vim
 Plug 'ngscheurich/dromad-vim'
