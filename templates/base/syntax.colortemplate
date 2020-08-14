@@ -10,17 +10,17 @@
 # ----------------------------------------------------------
 
 # Group               Foreground        Background        Attributes
-Comment               bright_grey       none              italic
-Constant              brown             none
-Error                 dark_red          none              bold,underline
-Identifier            bright_blue       none
-Ignore                bright_grey       none              bold
-PreProc               bright_cyan       none              bold
-Special               bright_red        none
-Statement             dark_cyan         none
-Todo                  bright_orange     none
-Type                  yellow            none
-Underlined            white             none
+Comment               bright_grey       black             italic
+Constant              brown             black
+Error                 dark_red          black             bold,underline
+Identifier            bright_blue       black
+Ignore                bright_grey       black             bold
+PreProc               bright_cyan       black             bold
+Special               bright_red        black
+Statement             dark_cyan         black
+Todo                  bright_orange     black
+Type                  yellow            black
+Underlined            white             black
 CursorIM              none              fg
 ToolbarLine           none              black
 ToolbarButton         white             black             bold
