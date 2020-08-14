@@ -28,9 +28,9 @@ MatchParen            white             black
 ModeMsg               white             black
 MoreMsg               white             black
 NonText               white             black
-Pmenu                 black             dark_red
+Pmenu                 bright_grey       dark_grey
 PmenuSbar             white             black
-PmenuSel              bright_grey       bright_red
+PmenuSel              dark_grey         bright_grey
 PmenuThumb            white             black
 Question              white             black
 Search                white             black
