@@ -2,14 +2,12 @@
 # Terminal Colors
 # ----------------------------------------------------------
 
-# Information {{{
 Full name:   Dromad
 Short name:  dromad
 Author:      N. G. Scheurich <nick@scheurich.me>
 Website:     https://github.com/ngscheurich/dromad-vim
-Description: Colorscheme based on Caves of Qud’s color palette.
+Description: Color scheme based on Caves of Qud’s palette.
 License:     MIT
-# }}}
 
 Include: base/linked.colortemplate
 Include: base/palette.colortemplate
